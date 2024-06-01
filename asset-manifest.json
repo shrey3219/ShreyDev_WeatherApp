@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ShreyDev_WeatherApp/static/css/main.0b97980c.css",
-    "main.js": "/ShreyDev_WeatherApp/static/js/main.a02bebc0.js",
+    "main.js": "/ShreyDev_WeatherApp/static/js/main.cecdb743.js",
     "static/media/background.jpg": "/ShreyDev_WeatherApp/static/media/background.b3a3eb12ae1044727cf2.jpg",
     "static/media/city.jpg": "/ShreyDev_WeatherApp/static/media/city.21060fe7fb1e74953974.jpg",
     "static/media/WeatherIcons.gif": "/ShreyDev_WeatherApp/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
     "index.html": "/ShreyDev_WeatherApp/index.html",
     "main.0b97980c.css.map": "/ShreyDev_WeatherApp/static/css/main.0b97980c.css.map",
-    "main.a02bebc0.js.map": "/ShreyDev_WeatherApp/static/js/main.a02bebc0.js.map"
+    "main.cecdb743.js.map": "/ShreyDev_WeatherApp/static/js/main.cecdb743.js.map"
   },
   "entrypoints": [
     "static/css/main.0b97980c.css",
-    "static/js/main.a02bebc0.js"
+    "static/js/main.cecdb743.js"
   ]
 }
